@@ -10,8 +10,8 @@ Analyzed two datasets—one detailing winners and the other IPL match details—
 
 __Winning Strategies by Toss Decision__: Teams winning the toss opted to field first 59% of the time.
 
-__Most Successful Teams__: Chennai Super Kings and Mumbai Indians led the championship race, each securing multiple titles
-.
+__Most Successful Teams__: Chennai Super Kings and Mumbai Indians led the championship race, each securing multiple titles.
+
 __Player Performance Highlights__: Chris Gayle dominated with the highest 'Player of the Match' awards, showing his power as a game-changer.
 
 __Popular Venues__: M. Chinnaswamy Stadium hosted the most matches, with Eden Gardens and Feroz Shah Kotla close behind, adding electric atmospheres to the league.
