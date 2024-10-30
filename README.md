@@ -7,7 +7,7 @@ Analyzed two datasets—one detailing winners and the other IPL match details—
 
 ✨ Top Insights:
 
-__Winning Strategies by Toss Decision__: Teams winning the toss opted to field first 59% of the time and reaped the rewards.
+__Winning Strategies by Toss Decision__: Teams winning the toss opted to field first 59% of the time.
 
 
 __Most Successful Teams__: Chennai Super Kings and Mumbai Indians led the championship race, each securing multiple titles.
