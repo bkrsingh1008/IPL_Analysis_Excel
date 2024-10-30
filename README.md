@@ -28,4 +28,8 @@ Power Pivot & Slicers: Enhanced interactivity, making the dashboard dynamic and 
 
 Interactive Charts & Conditional Formatting: Simplified complex data into engaging visuals and insights.
 
+✨ Dashboard:
+
+![image](https://github.com/user-attachments/assets/69f86d27-d0e2-434b-8f34-16c9fe0404f6)
+
 Through this project, I was able to turn raw IPL data into valuable insights, showcasing the power of data in understanding sports strategies. 
